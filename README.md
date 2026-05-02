@@ -76,6 +76,13 @@ http://127.0.0.1:5000/api-docs
 
 ---
 
+## 🚀 Deployment
+
+* Backend can be deployed on Render / Railway / AWS
+* Environment variables used for configuration
+
+---
+
 ## 📈 Scalability Notes
 
 * Modular architecture (controllers, routes, middleware)
